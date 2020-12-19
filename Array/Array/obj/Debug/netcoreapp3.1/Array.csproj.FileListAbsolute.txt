@@ -1,0 +1,11 @@
+/Users/student/Desktop/c#_practice/Array/Array/bin/Debug/netcoreapp3.1/Array.deps.json
+/Users/student/Desktop/c#_practice/Array/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.json
+/Users/student/Desktop/c#_practice/Array/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.dev.json
+/Users/student/Desktop/c#_practice/Array/Array/bin/Debug/netcoreapp3.1/Array.dll
+/Users/student/Desktop/c#_practice/Array/Array/bin/Debug/netcoreapp3.1/Array.pdb
+/Users/student/Desktop/c#_practice/Array/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfoInputs.cache
+/Users/student/Desktop/c#_practice/Array/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+/Users/student/Desktop/c#_practice/Array/Array/obj/Debug/netcoreapp3.1/Array.csproj.CoreCompileInputs.cache
+/Users/student/Desktop/c#_practice/Array/Array/obj/Debug/netcoreapp3.1/Array.dll
+/Users/student/Desktop/c#_practice/Array/Array/obj/Debug/netcoreapp3.1/Array.pdb
+/Users/student/Desktop/c#_practice/Array/Array/obj/Debug/netcoreapp3.1/Array.genruntimeconfig.cache
