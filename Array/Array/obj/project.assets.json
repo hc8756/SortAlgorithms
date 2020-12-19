@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Desktop/c#_practice/Array/Array/Array.csproj",
+      "projectUniqueName": "/Users/student/Desktop/c#_practice/SortAlgorithms/Array/Array/Array.csproj",
       "projectName": "Array",
-      "projectPath": "/Users/student/Desktop/c#_practice/Array/Array/Array.csproj",
+      "projectPath": "/Users/student/Desktop/c#_practice/SortAlgorithms/Array/Array/Array.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Desktop/c#_practice/Array/Array/obj/",
+      "outputPath": "/Users/student/Desktop/c#_practice/SortAlgorithms/Array/Array/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

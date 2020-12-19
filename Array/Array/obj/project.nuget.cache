@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X/b4Wxo5/ykkpNPJs7Xt1GcsgkniVyvoMWAIqH2MS3iFHgtvTShyXsVWs7n4p5gHaEmLWzVi8cbRne0hKi8eww==",
+  "dgSpecHash": "pQOxAPJ0fre81Rh8fjJpSbz2ocFOAd3OrewTnceCurbuvxWm4q9AEyeUi3O0gFuxnPoJLujtCbD87r8HC0TGTQ==",
   "success": true,
-  "projectFilePath": "/Users/student/Desktop/c#_practice/Array/Array/Array.csproj",
+  "projectFilePath": "/Users/student/Desktop/c#_practice/SortAlgorithms/Array/Array/Array.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],

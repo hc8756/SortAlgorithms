@@ -1,4 +1,5 @@
 ﻿using System;
+//Just checking that push and pull works
 //Arrays are th simplest data structures (data-index pairs) upon which stacks and queues are based
 namespace Array
 {
